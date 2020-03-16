@@ -20,3 +20,5 @@ Welcome to Python.org
 ```
 
 that means you've succeeded.
+for firebase test:
+python firebase_test.py 
